@@ -1,0 +1,1 @@
+{:rename-macros {}, :renames {}, :use-macros {}, :excludes nil, :name boot.cljs.main374, :imports nil, :requires {minimal-cljs.core minimal-cljs.core}, :uses nil, :require-macros nil, :doc nil}
