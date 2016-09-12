@@ -11,7 +11,7 @@ boot build
 open target/index.html
 ```
 
-You will see `Hello world` printed in the console.
+You will see a transparent, spinning cube.  It's probably best to view with Chrome/FF.
 
 ### Folders
 
