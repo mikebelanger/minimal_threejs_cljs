@@ -1,4 +1,3 @@
-
 (set-env!
   :source-paths #{"src/"}
   :asset-paths #{"assets/"}

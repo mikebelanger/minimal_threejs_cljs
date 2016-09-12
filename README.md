@@ -1,5 +1,5 @@
 
-Minimal code to run ClojureScript in Boot
+Minimal THREEJS/Clojurescript example
 ----
 
 > In addition to http://clojurescript.org/guides/quick-start
